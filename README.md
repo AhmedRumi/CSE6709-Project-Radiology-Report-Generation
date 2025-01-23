@@ -4,4 +4,4 @@ A significant application of natural language generation in the medical field in
 
 In this project, we introduce a prompt augmentation technique that generates preliminary findings to enhance the performance of state-of-the-art models. Additionally, we generate synthetic chest X-ray images using various GAN architectures and compare their performance. Furthermore, we fine-tune a model that combines the VIT-L vision encoder with the Llama-7B LLM and evaluate its overall performance.
 
-Dataset Link: https://drive.google.com/drive/folders/1AjmH1EHCqsg_LIehDkEym5wN8ZxO9KqY?usp=sharing
+Link for preprocessed dataset and synthetic images: https://drive.google.com/drive/folders/1AjmH1EHCqsg_LIehDkEym5wN8ZxO9KqY?usp=sharing
